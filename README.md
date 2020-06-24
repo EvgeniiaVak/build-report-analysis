@@ -1,0 +1,1 @@
+This is an exploratory project to learn more about Energinet build-report data: https://www.energidataportal.dk/build-report
